@@ -1,7 +1,11 @@
 name: Traefik
 description: |
   (Experimental) Traefik active load balancer
+<<<<<<< HEAD
 version: v1.0.3-rancher1
+=======
+version: v1.1.1-rancher1
+>>>>>>> rancher/master
 category: Load Balancing
 maintainer: "Raul Sanchez <rawmind@gmail.com>"
 minimum_rancher_version: v0.59.0

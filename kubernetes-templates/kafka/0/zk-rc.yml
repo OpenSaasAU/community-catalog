@@ -39,7 +39,11 @@ spec:
           ports: 
           imagePullPolicy: "IfNotPresent"
         - name: "broker-service"
+<<<<<<< HEAD
           image: "rawmind/alpine-kafka:0.10.0.1"
+=======
+          image: "rawmind/alpine-kafka:0.10.0.1-1"
+>>>>>>> rancher/master
           env:
             - name: JVMFLAGS
               value: "-Xmx${kafka_mem}m -Xms${kafka_mem}m"

@@ -6,4 +6,8 @@ category: Clustering
 maintainer: "Raul Sanchez <rawmind@gmail.com>"
 minimum_rancher_version: v0.59.0
 license: 
+<<<<<<< HEAD
 projectURL: https://github.com/rawmind0/alpine-kafka
+=======
+projectURL: https://github.com/rawmind0/alpine-kafka
+>>>>>>> rancher/master
