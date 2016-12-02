@@ -1,11 +1,6 @@
 .catalog:
   name: Kafka
   version: v1
-<<<<<<< HEAD
-=======
-  minimum_rancher_version: v1.0.0
-  maximum_rancher_version: v1.2.0-pre3
->>>>>>> rancher/master
   description: |
     A high-throughput distributed messaging system
   questions:

@@ -24,8 +24,4 @@
  
  Zookeeper can now be accessed over the Rancher network. 
 
-<<<<<<< HEAD
  Note: When you scale the cluster, zero downtime is not guaranteed..yet..
-=======
- Note: When you scale the cluster, zero downtime is expected...
->>>>>>> rancher/master
